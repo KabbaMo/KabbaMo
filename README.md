@@ -2,7 +2,7 @@
 - 👀 I’m interested in web application and mobile app
 - 🌱 I’m currently learning dart and flutter + javascrip
 - 💞️ I’m looking to collaborate on flutter
-- 📫 How to reach me kabbamohamed%1@gmail.com
+- 📫 How to reach me kabbamohamed51@gmail.com
 
 <!---
 KabbaMo/KabbaMo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
